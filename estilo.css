@@ -1,0 +1,19 @@
+﻿.sombra {
+    box-shadow: 5px 5px 20px;
+}
+
+.opacidade {
+    transition: opacity 1s;
+}
+
+    .opacidade:hover {
+        opacity: 0.1;
+    }
+
+.zoom {
+    transition: width 1s;
+}
+
+    .zoom:hover {
+        width: 700px;
+    }
